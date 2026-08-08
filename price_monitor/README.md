@@ -1,5 +1,4 @@
-![Price Monitor](price monitor.png)
-
+![Price Monitor](price-monitor-banner.png)
 
 # Competitor Price Monitor
 

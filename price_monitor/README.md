@@ -1,5 +1,3 @@
-![Price Monitor](price-monitor-banner.png)
-
 # Competitor Price Monitor
 
 An autonomous browsing agent that visits competitor product pages, extracts
